@@ -12,4 +12,4 @@ School Projects:
 - [Web Development](https://github.com/wanders00/dit342_web_development) - Full stack development of a website.
   - MongoDB, ExpressJS, Vue, Node, Automated Postman testing.
 - [Distributed Systems Development](https://github.com/wanders00/dit356_distributed_systems_development) - Capstone project designed to be done as a distributed system. Created and designed a dentist appointment platform based on given requirements from customer.
-  - Java w/ Spring Boot, Unit Testing, ExpresJS, Flutter, Firebase, MQTT, PostgreSQL, Stress Testing w/ Locust (Python), Stress Monitoring, Architecture, Development Processes.
+  - Java w/ Spring Boot, Unit Testing, ExpresJS, Flutter, Firebase, MQTT, PostgreSQL, Stress Testing w/ Locust, Stress Monitoring, Architecture, Development Processes.
